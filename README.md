@@ -10,7 +10,7 @@ Quanto ao nosso planejamento para execução do projeto, definimos as etapas a s
 
 ## Workflow
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c8565530-1620-4551-a7a5-ead2a65d31ca/Untitled.png)
+![image](https://user-images.githubusercontent.com/109157882/213465599-0affd28e-6237-42b1-bd38-b666d4ec3f06.png)
 
 ## [Infraestrutura](https://www.notion.so/Criar-Infraestrutura-570f0f9764e94227b42d6f7220e82831)
 
